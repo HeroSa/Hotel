@@ -1,0 +1,2 @@
+# Hotel
+manager,hotel
